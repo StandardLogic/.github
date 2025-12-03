@@ -4,7 +4,7 @@ Building the verification layer for AI in regulated industries.
 
 ## Our Product
 
-**[VeriLayer](https://github.com/verilayer)** — The industrial-grade verification layer that sits between your AI and your customers, turning probabilistic hallucinations into deterministic facts.
+**[Verilayer](https://github.com/verilayer)** — The industrial-grade verification layer that sits between your AI and your customers, turning probabilistic hallucinations into deterministic facts.
 
 ## What We Do
 
@@ -22,4 +22,4 @@ Healthcare · Legal · Finance · Insurance · Employment
 
 🌐 [standardlogic.ai](https://standardlogic.ai)
 🚀 [verilayer.ai](https://verilayer.ai)
-𝕏 [@StandardLogicCo](https://twitter.com/StandardLogicCo)
+𝕏 [@StandardLogicAI](https://twitter.com/StandardLogicAI)
